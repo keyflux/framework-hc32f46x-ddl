@@ -324,4 +324,4 @@ if isdir(MW_DIR):
             env.BuildSources(join("$BUILD_DIR", "FrameworkDDL_" + mw), join(MW_DIR, mw, "src"))
 
 # build ddl core
-env.BuildSources(join("$BUILD_DIR", "FrameworkDDL"), DDL_DIR)
+# env.BuildSources(join("$BUILD_DIR", "FrameworkDDL"), DDL_DIR)
