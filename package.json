@@ -1,6 +1,6 @@
 {
   "name": "framework-hc32f46x-ddl",
   "description": "HC32f46x Device Driver Library",
-  "url": "https://github.com/shadow578/framework-hc32f46x-ddl",
-  "version": "2.2.2"
+  "url": "https://github.com/keyflux/framework-hc32f46x-ddl",
+  "version": "2.2.4"
 }
